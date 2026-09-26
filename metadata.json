@@ -1,0 +1,6 @@
+{
+  "name": "خوشمزه‌ها - محصولات خانگی و سنتی دست‌ساز",
+  "description": "عرضه‌کننده فرآورده‌های ارگانیک، دست‌چین خانگی، سبزیجات تازه خردشده و چاشنی‌های ناب سنتی ایران‌زمین با طعم ناب مطبخ مادران.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
